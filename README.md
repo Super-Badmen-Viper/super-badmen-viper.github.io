@@ -12,3 +12,17 @@ theme: Midnight
 ## 墨智AI_音频特征提取
 ## 墨智AI_用户行为分析
 ## 。。。。。
+
+# Master mo (Mo Zhi ai_cobra) my personal homepage
+theme: Midnight
+# My QQ learning group number is 228440692. Welcome to add a group. Give me a star first. There are my sorted projects in the group, which are easier to use out of the box than my GitHub projects  
+# Based on the Apache license 2.0 open source protocol, you can intercept some of the code as you like, and declare that it is forbidden to use this solution as teaching, thesis and other knowledge and commercial property rights without the permission of the author (you need my permission, otherwise you will be prosecuted for your illegal behavior)  
+# My open source project: (the project will be continuously updated)  
+## Mozi music PC Edition: https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer  
+   <img src="doc/3.png" align="center" width="660">
+   
+# Future expected open source project Demo:  
+## Mozhi AI_ Graphic analysis system  
+## Mozhi AI_ Audio feature extraction  
+## Mozhi AI_ User behavior analysis  
+## 。。。。。
