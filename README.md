@@ -1,5 +1,5 @@
 # super-badmen-viper.github.io
-夫子墨（墨智AI_Cobra）（程翔）我的个人主页（my personal homepage）  
+夫子墨（墨智AI_Cobra）我的个人主页（my personal homepage）  
 theme: Midnight
 # 我的开源项目：
 ## 墨智音乐PC版：https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer
