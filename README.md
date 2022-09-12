@@ -1,8 +1,8 @@
 # super-badmen-viper.github.io
 夫子墨（墨智AI_Cobra）我的个人主页（my personal homepage）  
 theme: Midnight
-# 我的QQ学习群号：228440692，欢迎加群，先给个star吧，群里有我整理好的项目，比我的Github的项目更加容易开箱即用
-# 基于Apache License 2.0开源协议，你可以随心所欲的截取其中的部分代码，声明：禁止商用，禁止未经作者允许将此解决方案作为教学，论文等知识，商业产权使用（你需要得到我的允许，不然将起诉你的违法行为）
+## 我的QQ学习群号：228440692，欢迎加群，先给个star吧，群里有我整理好的项目，比我的Github的项目更加容易开箱即用
+## 基于Apache License 2.0开源协议，你可以随心所欲的截取其中的部分代码，声明：禁止商用，禁止未经作者允许将此解决方案作为教学，论文等知识，商业产权使用（你需要得到我的允许，不然将起诉你的违法行为）
 # 我的开源项目：(项目将持续更新)
 ## 墨智音乐PC版：https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer
    <img src="doc/3.png" align="center" width="660">
@@ -15,8 +15,8 @@ theme: Midnight
 
 # Master mo (Mo Zhi ai_cobra) my personal homepage
 theme: Midnight
-# My QQ learning group number is 228440692. Welcome to add a group. Give me a star first. There are my sorted projects in the group, which are easier to use out of the box than my GitHub projects  
-# Based on the Apache license 2.0 open source protocol, you can intercept some of the code as you like, and declare that it is forbidden to use this solution as teaching, thesis and other knowledge and commercial property rights without the permission of the author (you need my permission, otherwise you will be prosecuted for your illegal behavior)  
+## My QQ learning group number is 228440692. Welcome to add a group. Give me a star first. There are my sorted projects in the group, which are easier to use out of the box than my GitHub projects  
+## Based on the Apache license 2.0 open source protocol, you can intercept some of the code as you like, and declare that it is forbidden to use this solution as teaching, thesis and other knowledge and commercial property rights without the permission of the author (you need my permission, otherwise you will be prosecuted for your illegal behavior)  
 # My open source project: (the project will be continuously updated)  
 ## Mozi music PC Edition: https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer  
    <img src="doc/3.png" align="center" width="660">
