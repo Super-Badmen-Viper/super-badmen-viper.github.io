@@ -1,5 +1,7 @@
-<body style="background-color: #eeeeee;">
-	<div style="
+<body bgcolor="#eeeeee">
+	<div 
+	     bgcolor=white
+	     style="
 		    font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
 			color: #000;
 			background-color: #ffffff;
