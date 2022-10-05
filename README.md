@@ -1,30 +1,71 @@
-# super-badmen-viper.github.io
-夫子墨（墨智AI_Cobra）我的个人主页（my personal homepage）  
-theme: Midnight
-## 我的QQ学习群号：228440692，欢迎加群，先给个star吧，群里有我整理好的项目，比我的Github的项目更加容易开箱即用
-## 基于AGPL-3.0 license开源协议，你可以随心所欲的截取其中的部分代码，声明：禁止商用，禁止未经作者允许将此解决方案作为教学，论文等知识，商业产权使用（你需要得到我的允许，不然将起诉你的违法行为）
-# 我的开源项目：(项目将持续更新)
-## 墨智音乐PC版：https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer
-   <img src="doc/3.png" align="center" width="660">
-
-# 未来预期开源项目DEMO:
-## 墨智AI_图形分析系统
-## 墨智AI_音频特征提取
-## 墨智AI_用户行为分析
-## 。。。。。
-
-# Master mo (Mo Zhi ai_cobra) my personal homepage
-theme: Midnight
-## My QQ learning group number is 228440692. Welcome to add a group. Give me a star first. There are my sorted projects in the group, which are easier to use out of the box than my GitHub projects  
-## Based on the AGPL-3.0 license open source protocol, you can intercept some of the code as you like, and declare that it is forbidden to use this solution as teaching, thesis and other knowledge and commercial property rights without the permission of the author (you need my permission, otherwise you will be prosecuted for your illegal behavior)  
-# My open source project: (the project will be continuously updated)  
-## Mozi music PC Edition: https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer  
-   <img src="doc/3.png" align="center" width="660">
-   
-# Future expected open source project Demo:  
-## Mozhi AI_ Graphic analysis system  
-## Mozhi AI_ Audio feature extraction  
-## Mozhi AI_ User behavior analysis  
-## 。。。。。
-
-
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<style>
+		#body{
+			font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
+			color: #000;
+			background-color: #ffffff;
+			text-align: left;
+			margin-top: 30px;
+			margin-bottom: 30px;
+			margin-left: auto;
+			margin-right: auto;
+			padding-left: 50px;
+			padding-right: 50px;
+			padding-top: 10px;
+			padding-bottom: 30px;
+			max-width: 960px;
+		}
+	</style>
+	<body>
+		<div id="body">
+			<div>
+				<div style="margin-top:25px">
+				<table>
+					<tbody>
+					<tr>
+						<td width="670">
+							<div>
+								<h1>Dr. Xiang Cheng &nbsp; </h1><h1></h1>
+							</div>                       
+							<h3>Undergraduate students (second year)（No professional title） </h3> 
+							<p>
+								Nanjing University of Information Science & Technology (Home)<br>
+								Computer Science and Technology<br>
+								Email: 1774148579@qq.com <br>              
+							</p>
+						</td>
+						<td>
+							<img style="margin-top: 100px;" src="Handsome guy photos.jpg" border="0" width="160"><br>
+						</td>
+					</tr>
+					<tr></tr>
+					</tbody>
+				</table>
+				<h2>Biography</h2>
+					<p>Not yet</p>
+				<h2>Research Interests</h2>
+					<p>AI, Maching Learning, Deep Learning, Computer Vision, software development, Math,etc.</p>
+				<h2>Selected Awards</h2>
+					<p>Not yet</p>
+				<h2>Selected Invited Talks</h2>
+					<p>Not yet</p>
+				<h2>Selected Publications [Full publication list is available in <a href="">Google Scholar</a>]</h2>
+					<p>Not yet</p>
+				<h2>Professional Service</h2>
+					<p>Not yet</p>
+				<h2>Selected Challenges</h2>
+					<p>Not yet</p>
+				<h2>Teaching</h2>
+					<p>Not yet</p>
+				<h2>Github Open Source Project</h2>
+					<p><a href="//github.com/Super-Badmen-Viper/MoZhiMusicPlayer">Mozi music PC Edition: Music Player</a></p>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
