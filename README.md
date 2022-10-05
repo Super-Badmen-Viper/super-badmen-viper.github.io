@@ -36,10 +36,10 @@
 				<h2 style="color: #2E64FE;">Biography</h2>
 					<p>None temporarily</p>
 				<h2 style="color: #2E64FE;">Research Interests</h2>
-					<p>AI, Maching Learning, Deep Learning, Computer Vision, software development, Math,etc.</p>
-				<!--		
+					<p>AI, Maching Learning, Deep Learning, Computer Vision, software development, Math,etc.</p>	
 				<h2 style="color: #2E64FE;">Selected Awards</h2>
 					<p>None temporarily</p>
+				<!--
 				<h2 style="color: #2E64FE;">Selected Invited Talks</h2>
 					<p>None temporarily</p>
 				<h2 style="color: #2E64FE;">Selected Publications [Full publication list is available in <a href="">Google Scholar</a>]</h2>
