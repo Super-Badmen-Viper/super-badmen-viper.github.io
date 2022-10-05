@@ -1,4 +1,3 @@
-<section data-background="#eeeeee"></section>
 <body>
 	<div 
 	     style="
