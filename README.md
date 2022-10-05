@@ -31,8 +31,8 @@
 				</div>
 			</div>
 			<div>
-				<h2 style="color: #2E64FE;"><a href="https://github.com/Super-Badmen-Viper">Github Open Source Project：</a></h2>
-					<p><a href="//github.com/Super-Badmen-Viper/MoZhiMusicPlayer">Mozi music PC Edition: Music Player</a></p>
+				<h2 style="color: #2E64FE;"><a href="https://github.com/Super-Badmen-Viper">My Github Open Source Project：</a></h2>
+					<p><a href="//github.com/Super-Badmen-Viper/MoZhiMusicPlayer">1.Mozi music PC Edition: Music Player</a></p>
 				<h2 style="color: #2E64FE;">Biography</h2>
 					<p>None temporarily</p>
 				<h2 style="color: #2E64FE;">Research Interests</h2>
