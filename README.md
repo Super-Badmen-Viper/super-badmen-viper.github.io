@@ -1,6 +1,6 @@
-<body bgcolor="#eeeeee">
+<section data-background="#eeeeee"></section>
+<body>
 	<div 
-	     bgcolor=white
 	     style="
 		    font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
 			color: #000;
