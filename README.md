@@ -37,6 +37,9 @@
 					<p>None temporarily</p>
 				<h2 style="color: #2E64FE;">Research Interests</h2>
 					<p>AI, Maching Learning, Deep Learning, Computer Vision, software development, Math,etc.</p>
+				
+				<br/><br/><br/><br/><br/><br/><br/><br/>	
+				
 				<h2 style="color: #2E64FE;">Selected Awards</h2>
 					<p>None temporarily</p>
 				<h2 style="color: #2E64FE;">Selected Invited Talks</h2>
