@@ -1,5 +1,19 @@
 <body>
-	<div id="body">
+	<div style="
+		    font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
+			color: #000;
+			background-color: #ffffff;
+			text-align: left;
+			margin-top: 30px;
+			margin-bottom: 30px;
+			margin-left: auto;
+			margin-right: auto;
+			padding-left: 50px;
+			padding-right: 50px;
+			padding-top: 10px;
+			padding-bottom: 30px;
+			max-width: 960px;
+		    ">
 		<div style="margin-top:25px">
 			<div style="height: 460px;">
 				<div width="670px">
