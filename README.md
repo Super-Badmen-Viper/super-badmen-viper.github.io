@@ -18,7 +18,7 @@
 			<div style="height: 460px;">
 				<div width="670px">
 					<div>
-						<h1>Dr. Xiang Cheng &nbsp; </h1><h1></h1>
+						<h1 style = "color: #2E64FE;">Dr. Xiang Cheng &nbsp; </h1><h1></h1>
 					</div>                       
 					<img src="doc/Handsome guy photos.jpg" border="0" width="160"><br>
 					<h3>Undergraduate students (second year)（No professional title） </h3> 
@@ -30,23 +30,23 @@
 				</div>
 			</div>
 			<div>
-				<h2>Biography</h2>
+				<h2 style="color: #2E64FE;">Biography</h2>
 					<p>None temporarily</p>
-				<h2>Research Interests</h2>
+				<h2 style="color: #2E64FE;">Research Interests</h2>
 					<p>AI, Maching Learning, Deep Learning, Computer Vision, software development, Math,etc.</p>
-				<h2>Selected Awards</h2>
+				<h2 style="color: #2E64FE;">Selected Awards</h2>
 					<p>None temporarily</p>
-				<h2>Selected Invited Talks</h2>
+				<h2 style="color: #2E64FE;">Selected Invited Talks</h2>
 					<p>None temporarily</p>
-				<h2>Selected Publications [Full publication list is available in <a href="">Google Scholar</a>]</h2>
+				<h2 style="color: #2E64FE;">Selected Publications [Full publication list is available in <a href="">Google Scholar</a>]</h2>
 					<p>None temporarily</p>
-				<h2>Professional Service</h2>
+				<h2 style="color: #2E64FE;">Professional Service</h2>
 					<p>None temporarily</p>
-				<h2>Selected Challenges</h2>
+				<h2 style="color: #2E64FE;">Selected Challenges</h2>
 					<p>None temporarily</p>
-				<h2>Teaching</h2>
+				<h2 style="color: #2E64FE;">Teaching</h2>
 					<p>None temporarily</p>
-				<h2>Github Open Source Project</h2>
+				<h2 style="color: #2E64FE;">Github Open Source Project</h2>
 					<p><a href="//github.com/Super-Badmen-Viper/MoZhiMusicPlayer">Mozi music PC Edition: Music Player</a></p>
 			</div>
 		</div>
