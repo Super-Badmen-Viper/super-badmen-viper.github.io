@@ -1,4 +1,4 @@
-<body>
+<body style="background-color: #eeeeee;">
 	<div style="
 		    font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
 			color: #000;
