@@ -47,7 +47,7 @@
 					1.use Python / C++ / Matlab / Pytorch / TensorFlow / Math, Build AI and algorithm model(computer vision, Natural Language Processing)<br>
 					2.use Java / database / web, Build websites and manage systems<br>
 					3.use C# / dotNET / WPF / Winform, Building Windows Desktop Software<br>
-					4.use C++ / Qt, Building Windows Desktop Software
+					4.use C++ / Qt, Building Windows Desktop Software<br>
 					</p>
 				<!--
 				<h2 style="color: #2E64FE;">Selected Invited Talks</h2>
