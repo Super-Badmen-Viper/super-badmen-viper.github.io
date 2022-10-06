@@ -17,7 +17,7 @@
 		    ">
 		<div style="margin-top:25px">
 			<div>
-				<div width="670px">
+				<div>
 					<div>
 						<h1 style = "color: #2E64FE;">Mr. Xiang Cheng &nbsp; </h1><h1></h1>
 					</div>                       
