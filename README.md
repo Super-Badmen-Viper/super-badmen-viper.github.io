@@ -35,7 +35,7 @@
 				<h2 style="color: #2E64FE;"><a href="https://github.com/Super-Badmen-Viper">My Github Open Source Project：</a></h2>
 					<p><a href="//github.com/Super-Badmen-Viper/MoZhiMusicPlayer">1.Mozi music PC Edition: Music Player</a></p>
 				<h2 style="color: #2E64FE;">Biography</h2>
-					<p>None temporarily</p>
+					<p>None temporarily, At present, he has no special experience (not like other scholars), only ordinary</p>
 				<h2 style="color: #2E64FE;">Research Interests</h2>
 					<p>AI, Maching Learning, Deep Learning, Computer Vision, software development, Math,etc.</p>	
 				<h2 style="color: #2E64FE;">Selected Awards</h2>
