@@ -42,6 +42,13 @@
 					<p>AI, Maching Learning, Deep Learning, Computer Vision, software development, Math,etc.</p>	
 				<h2 style="color: #2E64FE;">Selected Awards</h2>
 					<p>None temporarily</p>
+				<h2 style="color: #2E64FE;">Personal skills</h2>
+					<p>
+					1.use Python / C++ / Matlab / Pytorch / TensorFlow / Math, Build AI and algorithm model(computer vision, Natural Language Processing)<br>
+					2.use Java / database / web, Build websites and manage systems<br>
+					3.use C# / dotNET / WPF / Winform, Building Windows Desktop Software<br>
+					4.use C++ / Qt, Building Windows Desktop Software
+					</p>
 				<!--
 				<h2 style="color: #2E64FE;">Selected Invited Talks</h2>
 					<p>None temporarily</p>
