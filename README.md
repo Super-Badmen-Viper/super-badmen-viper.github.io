@@ -45,7 +45,10 @@
 						Updating......
 					</p>
 				<h2 style="color: #2E64FE;">Research Interests</h2>
-					<p>AI, Maching Learning, Deep Learning, Computer Vision, software development, Math,etc.</p>	
+					<p>
+						AI, Maching Learning, Deep Learning, Computer Vision, software development, Math,etc.<br>
+						Updating......
+					</p>	
 				<h2 style="color: #2E64FE;">Selected Awards</h2>
 					<p>
 						None temporarily<br>
