@@ -27,7 +27,7 @@
 						Nanjing University of Information Science & Technology (Home)<br>
 						Computer Science and Technology<br>
 						Email: 1774148579@qq.com <br>    
-						No tutor or team, studying science alone <br>     
+						Although I am currently a college student, But I hope to join the scientific research team, And gradually grow into a scientist.<br>     
 					</p>
 				</div>
 			</div>
