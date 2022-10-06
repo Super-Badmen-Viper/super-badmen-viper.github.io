@@ -28,6 +28,8 @@
 						Computer Science and Technology<br>
 						Although I am currently a college student, But I hope to join the scientific research team, And gradually grow into a scientist.<br>     
 						Email: 1774148579@qq.com <br>    
+						   <br>
+						   <br>
 					</p>
 				</div>
 			</div>
