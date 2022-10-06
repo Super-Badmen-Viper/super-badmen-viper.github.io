@@ -26,7 +26,8 @@
 					<p>
 						Nanjing University of Information Science & Technology (Home)<br>
 						Computer Science and Technology<br>
-						Email: 1774148579@qq.com <br>              
+						Email: 1774148579@qq.com <br>    
+						No tutor or team, studying science alone <br>     
 					</p>
 				</div>
 			</div>
