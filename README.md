@@ -16,7 +16,7 @@
 			max-width: 960px;
 		    ">
 		<div style="margin-top:25px">
-			<div style="height: 520px;">
+			<div style="height: 560px;">
 				<div width="670px">
 					<div>
 						<h1 style = "color: #2E64FE;">Dr. Xiang Cheng &nbsp; </h1><h1></h1>
