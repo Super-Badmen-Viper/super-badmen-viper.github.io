@@ -26,8 +26,8 @@
 					<p>
 						Nanjing University of Information Science & Technology (Home)<br>
 						Computer Science and Technology<br>
-						Email: 1774148579@qq.com <br>    
 						Although I am currently a college student, But I hope to join the scientific research team, And gradually grow into a scientist.<br>     
+						Email: 1774148579@qq.com <br>    
 					</p>
 				</div>
 			</div>
