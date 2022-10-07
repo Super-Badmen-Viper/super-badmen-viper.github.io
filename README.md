@@ -54,6 +54,11 @@
 						None temporarily<br>
 						Updating......
 					</p>
+				<h2 style="color: #2E64FE;">Selected Papers</h2>
+					<p>
+						None temporarily<br>
+						Updating......
+					</p>
 				<h2 style="color: #2E64FE;">Personal skills</h2>
 					<p>
 						1.use Python / C++ / Matlab / Pytorch / TensorFlow / Math, Design mathematical formula, Build AI and algorithm model(computer vision, Natural Language Processing)<br>
