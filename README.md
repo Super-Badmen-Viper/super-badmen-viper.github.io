@@ -36,7 +36,7 @@
 			<div>
 				<h2 style="color: #2E64FE;"><a href="https://github.com/Super-Badmen-Viper">Selected Github Open Source Project：</a></h2>
 					<p>
-						<a href="//github.com/Super-Badmen-Viper/MoZhiMusicPlayer">1.Mozi music PC Edition: Music Player</a><br>
+						<a href="//github.com/Super-Badmen-Viper/MoZhiMusicPlayer">1.MusicPlayer PC WPF Edition: MoZhiMusicPlayer</a><br>
 						Updating......
 					</p>
 				<h2 style="color: #2E64FE;">Biography</h2>
